@@ -1,0 +1,8 @@
+Weather Report - Calicut, India
+Date: 2026-05-30
+
+Temperature: 28°C (Feels like 32°C)
+Condition: Partly Cloudy
+Humidity: 83%
+
+Source: db-api-mcp
